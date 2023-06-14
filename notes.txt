@@ -1,0 +1,2 @@
+Q1. why we are  using productRouter in place of server?
+   see from video link: https://www.youtube.com/watch?v=ChVE-JbtYbM   in chapter5 from 03:54:00
